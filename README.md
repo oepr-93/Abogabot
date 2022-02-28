@@ -1,7 +1,7 @@
 # Abogabot
 Misión 1 de LaunchX, estudio de caso de Abogabot
 
-## Caso: Abogabot Descripción:
+## Caso - Descripción:
 
 Es un despacho de abogados que quiere automatizar las demandas de sus clientes, esto lo harán a traves de una página web llenando un formulario.
 
